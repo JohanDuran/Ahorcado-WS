@@ -44,6 +44,7 @@
             this.tbJugador = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.dgBest = new System.Windows.Forms.DataGridView();
+            this.label4 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgBest)).BeginInit();
             this.SuspendLayout();
             // 
@@ -210,12 +211,23 @@
             this.dgBest.Size = new System.Drawing.Size(347, 577);
             this.dgBest.TabIndex = 2;
             // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(290, 759);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(805, 37);
+            this.label4.TabIndex = 17;
+            this.label4.Text = "Todas las palabras están relacionadas con informática.";
+            // 
             // Ahorcado
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
             this.ClientSize = new System.Drawing.Size(1598, 805);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.tbJugador);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.lblGanador);
@@ -257,6 +269,7 @@
         private System.Windows.Forms.TextBox tbJugador;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.DataGridView dgBest;
+        private System.Windows.Forms.Label label4;
     }
 }
 
