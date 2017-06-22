@@ -1,0 +1,17 @@
+C:\Users\Johan Duran Cerdas\Codigo\Visual Studio 2017\Projects\Gato-TP2-Web-UCR\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ahorcado.resources
+C:\Users\Johan Duran Cerdas\Codigo\Visual Studio 2017\Projects\Gato-TP2-Web-UCR\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Johan Duran Cerdas\Codigo\Visual Studio 2017\Projects\Gato-TP2-Web-UCR\WindowsFormsApp2\obj\Debug\Ahorcado.csproj.GenerateResource.Cache
+C:\Users\Johan Duran Cerdas\Codigo\Visual Studio 2017\Projects\Gato-TP2-Web-UCR\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Johan Duran Cerdas\Codigo\Visual Studio 2017\Projects\Gato-TP2-Web-UCR\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Johan Duran Cerdas\Codigo\Visual Studio 2017\Projects\Gato-TP2-Web-UCR\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Johan Duran Cerdas\Codigo\Visual Studio 2017\Projects\Gato-TP2-Web-UCR\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Johan Duran Cerdas\Codigo\Visual Studio 2017\Projects\Gato-TP2-Web-UCR\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Johan Duran Cerdas\Codigo\Visual Studio 2017\Projects\Ahorcado-TP2-Web-UCR\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Johan Duran Cerdas\Codigo\Visual Studio 2017\Projects\Ahorcado-TP2-Web-UCR\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Johan Duran Cerdas\Codigo\Visual Studio 2017\Projects\Ahorcado-TP2-Web-UCR\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Johan Duran Cerdas\Codigo\Visual Studio 2017\Projects\Ahorcado-TP2-Web-UCR\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ahorcado.resources
+C:\Users\Johan Duran Cerdas\Codigo\Visual Studio 2017\Projects\Ahorcado-TP2-Web-UCR\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Johan Duran Cerdas\Codigo\Visual Studio 2017\Projects\Ahorcado-TP2-Web-UCR\WindowsFormsApp2\obj\Debug\Ahorcado.csproj.GenerateResource.Cache
+C:\Users\Johan Duran Cerdas\Codigo\Visual Studio 2017\Projects\Ahorcado-TP2-Web-UCR\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Johan Duran Cerdas\Codigo\Visual Studio 2017\Projects\Ahorcado-TP2-Web-UCR\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Johan Duran Cerdas\Codigo\Visual Studio 2017\Projects\Ahorcado-TP2-Web-UCR\WindowsFormsApp2\obj\Debug\Ahorcado.csprojResolveAssemblyReference.cache
